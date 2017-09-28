@@ -11,9 +11,7 @@
 #include "card.h"
 #define cardmax 5
 
-//11 is Jack
-//12 is Queen
-//13 is King
+
 //ace is either 1 or 11
 
 void populateDeck(card deck[])
